@@ -22,4 +22,4 @@ This was one of my first projects, focused on learning basic page structure and 
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MeghPatel-007/instagram-login.git
+   git clone https://github.com/MeghPatel-007/Instagram-login.git
